@@ -133,5 +133,9 @@
 		"size": "cover",
 		"position": "center"
 	},
+	"plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy"
+},
 	"spec": 2
 }
