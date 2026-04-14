@@ -36,7 +36,7 @@
             "#2d3538"
         ],
         "BACKGROUND_SECONDARY": [
-            "#111111"
+            "#2d3538"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#2d3538"
@@ -57,13 +57,13 @@
             "#111111"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#ff0000"
+            "#2d3538"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#00ff00"
+            "#2d3538"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0000ff"
+            "#111111"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#212121"
