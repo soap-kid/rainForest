@@ -19,7 +19,7 @@
         ],
 		"PANEL_BG": [
 			"#2d3538"
-		],
+		]
     },
     "rawColors": {
         "PRIMARY_500": "#a7c080",
@@ -54,7 +54,7 @@
         "PLUM_10": "#e2ead5",
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
-		"PLUM_6": "a7c080"
+		"PLUM_6": "#a7c080"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/myumichi/everforest/main/backgrounds/IMG_20240119_091707.png",
