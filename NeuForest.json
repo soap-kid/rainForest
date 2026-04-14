@@ -24,22 +24,22 @@
             "#0000ff"
         ],
         "INTERACTIVE_HOVER": [
-            "#403e6f"
+            "#ff0000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f4f4f4"
+            "#00ff00"
         ],
         "INTERACTIVE_MUTED": [
-            "#53586b"
+            "#0000ff"
         ],
         "BACKGROUND_PRIMARY": [
-            "#111111"
+            "#2d3538"
         ],
         "BACKGROUND_SECONDARY": [
             "#111111"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#212121"
+            "#2d3538"
         ],
         "BACKGROUND_SURFACE_HIGH": [
             "#141414"
@@ -51,19 +51,19 @@
             "#1e1e1e"
         ],
         "BACKGROUND_ACCENT": [
-            "#7e8ecc"
+            "#e2ead5"
         ],
         "BACKGROUND_FLOATING": [
             "#111111"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#141414"
+            "#ff0000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#141414"
+            "#00ff00"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#111111"
+            "#0000ff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#212121"
@@ -124,12 +124,12 @@
         ]
 	},
 	"rawColors": {
-		"BLACK_500": "#000000"
-	},
+		"BLACK_500": "#00000050"
+	}
 	"background": {
 		"url": "https://raw.githubusercontent.com/myumichi/everforest/main/backgrounds/IMG_20240119_091707.png",
 		"blur": 0.25,
-		"alpha": 0.2,
+		"alpha": .2,
 		"size": "cover",
 		"position": "center"
 	},
