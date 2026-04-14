@@ -129,6 +129,7 @@
 	"background": {
 		"url": "https://raw.githubusercontent.com/myumichi/everforest/main/backgrounds/IMG_20240119_091707.png",
 		"blur": 0.25,
+		"alpha": 0.2,
 		"size": "cover",
 		"position": "center"
 	},
