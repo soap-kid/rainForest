@@ -22,6 +22,9 @@
 		],
 		"BACKGROUND_BRAND": [
 			"#4d545c"
+		],
+		"REDESIGN_INPUT_CONTROL_SELECTED":
+			"a7c080"
 		]
     },
     "rawColors": {
@@ -65,7 +68,7 @@
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
         "alpha": 0.2,
-		"size": "cover",
+        "size": "cover",
         "position": "center"
     },
     "spec": 2
