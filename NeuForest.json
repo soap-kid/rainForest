@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#2d3538"
+            "#232a2e"
         ],
         "BACKGROUND_MOD_MUTED": [
             "#374247"
@@ -37,12 +37,13 @@
         "BRAND_260": "#384842",
         "BRAND_360": "#384842",
         "BRAND_500": "#7e8ecc",
-        "BRAND_560": "#7e8ecc",
+        "BRAND_560": "#a7c080",
         "YELLOW_300": "#dbbc7f",
         "GREEN_600": "#83c092",
         "RED_400": "#e67e80",
         "WHITE_500": "#a7aaab",
         "GREEN_360": "#83c092",
+		"BLUE_345": "#a7c080",
 		"PLUM_24": "#232a2e",
         "PLUM_23": "#232a2e",
         "PLUM_20": "#2d3538",
@@ -51,10 +52,12 @@
         "PLUM_16": "#47555a",
         "PLUM_15": "#374247",
         "PLUM_13": "#7e8ecc",
-        "PLUM_10": "#e2ead5",
+		"PLUM_11": "#232a2e",
+        "PLUM_10": "#a7c080",
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
-		"PLUM_6": "#e2ead5"
+		"PLUM_6": "#e2ead5",
+		"PLUM_1": "a7c080"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/myumichi/everforest/main/backgrounds/IMG_20240119_091707.png",
