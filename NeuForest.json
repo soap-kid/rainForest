@@ -64,7 +64,8 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
-        "size": "cover",
+        "alpha": 0.2,
+		"size": "cover",
         "position": "center"
     },
     "spec": 2
