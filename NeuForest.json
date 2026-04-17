@@ -17,12 +17,12 @@
         "BACKGROUND_SURFACE_HIGH": [
             "#2d3538"
         ],
-        "BACKGROUND_SURFACE_RAISED": [
-            "#4c555a"
-        ],
 		"PANEL_BG": [
 			"#2d3538"
 		],
+        "BACKGROUND_SURFACE_RAISED": [
+            "#4c555a"
+        ],
 		"BACKGROUND_BRAND": [
 			"#4d545c"
 		],
