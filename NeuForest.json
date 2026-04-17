@@ -25,6 +25,9 @@
 		],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#232A2E"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#a7c080"
         ]
     },
     "rawColors": {
@@ -58,7 +61,7 @@
         "PLUM_16": "#47555a",
         "PLUM_15": "#374247",
         "PLUM_13": "#a7c080",
-		"PLUM_11": "#0e1113",
+		"PLUM_11": "#232A2E",
         "PLUM_10": "#d1c4aa",
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
