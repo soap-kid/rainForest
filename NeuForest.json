@@ -26,8 +26,11 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#232A2E"
         ],
+		"INPUT_BACKGROUND_DEFAULT": [
+			"#232A2E"
+		],
         "INTERACTIVE_TEXT_DEFAULT": [
-            "#ff0000"
+            "#a7c080"
         ],
 		"EMBED_BACKGROUND": [
 			"#374247"
@@ -37,42 +40,43 @@
 		]
     },
     "rawColors": {
-        "PRIMARY_500": "#0ff000",
+        "PRIMARY_500": "#a7c080",
         "PRIMARY_100": "#f4f4f4",
         "PRIMARY_200": "#d0cfef",
-        "PRIMARY_300": "#00ff00",
+        "PRIMARY_300": "#a7c080",
         "PRIMARY_360": "#7e8ecc",
-        "PRIMARY_400": "#000ff0",
+        "PRIMARY_400": "#a7c080",
         "PRIMARY_600": "#4c555a",
         "PRIMARY_630": "#4c555a",
         "PRIMARY_660": "#4c555a",
         "PRIMARY_700": "#4c555a",
         "PRIMARY_800": "#4c555a",
         "BLACK_500": "#000000fa",
-        "BRAND_260": "#0000ff",
-        "BRAND_360": "#f0000f",
-        "BRAND_500": "#f00000",
+        "BRAND_260": "#a7c080",
+        "BRAND_360": "#a7c080",
+		"BRAND_500": "#a7c080",
         "BRAND_560": "#68785B",
         "YELLOW_300": "#dbbc7f",
         "GREEN_600": "#83c092",
         "RED_400": "#e67e80",
         "WHITE_500": "#a7aaab",
         "GREEN_360": "#83c092",
-		"BLUE_345": "#00000f",
+		"BLUE_345": "#a7c080",
 		"PLUM_24": "#232a2e",
         "PLUM_23": "#232a2e",
+		"PLUM_22": "#2d3538",
         "PLUM_20": "#2d3538",
 		"PLUM_19": "#232a2e",
         "PLUM_18": "#374247",
         "PLUM_17": "#374247",
         "PLUM_16": "#47555a",
         "PLUM_15": "#374247",
-        "PLUM_13": "#f0ff0f",
+        "PLUM_13": "#a7c080",
         "PLUM_10": "#d1c4aa",
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
 		"PLUM_6": "#e2ead5",
-		"PLUM_1": "#0f00f0"
+		"PLUM_1": "#e2ead5"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
