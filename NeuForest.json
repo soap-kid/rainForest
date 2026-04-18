@@ -51,7 +51,6 @@
         "BLACK_500": "#000000fa",
         "BRAND_260": "#a7c080",
         "BRAND_360": "#a7c080",
-        "BRAND_500": "#ffffff",
         "BRAND_560": "#68785B",
         "YELLOW_300": "#dbbc7f",
         "GREEN_600": "#83c092",
@@ -72,7 +71,8 @@
         "PLUM_3": "#e2ead5",
         "PLUM_9": "#e2ead5",
 		"PLUM_6": "#e2ead5",
-		"PLUM_1": "#a7c080"
+		"PLUM_1": "#a7c080",
+		"BRAND_500": "#ffffff"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
