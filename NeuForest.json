@@ -105,5 +105,9 @@
 		"SourceCodePro-Semibold": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1",
 		"ggmono-Normal": "https://github.com/soap-kid/NeuForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1"
 	},
+	"plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy"
+},
     "spec": 2
 }
