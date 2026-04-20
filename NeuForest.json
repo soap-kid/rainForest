@@ -1,5 +1,5 @@
 {
-    "name": "NeuForest",
+    "name": "NeuForest Test Branch",
     "description": "Rain/Kettu reimagining of everforest by myumichi",
     "authors": [
         {
@@ -61,7 +61,7 @@
         "RED_400": "#e67e80",
         "WHITE_500": "#a7aaab",
         "GREEN_360": "#83c092",
-		"BLUE_345": "#a7c080",
+		"BLUE_345": "#ffffff",
 		"PLUM_24": "#232a2e",
         "PLUM_23": "#232a2e",
 		"PLUM_22": "#2d3538",
