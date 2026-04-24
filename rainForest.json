@@ -1,5 +1,5 @@
 {
-    "name": "NeuForest",
+    "name": "rainForest",
     "description": "Rain/Kettu reimagining of everforest by myumichi",
     "authors": [
         {
@@ -79,7 +79,7 @@
 		"PLUM_1": "#e2ead5"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/test/everforest%20blur.png",
+        "url": "https://raw.githubusercontent.com/soap-kid/rainForest/refs/heads/test/everforest%20blur.png",
         "alpha": 1,
         "size": "cover",
         "position": "center"
