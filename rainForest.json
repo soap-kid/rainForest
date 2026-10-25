@@ -1,6 +1,6 @@
 {
     "name": "rainForest",
-    "description": "Rain/Kettu reimagining of everforest by myumichi",
+    "description": "Everforest for Rain/Kettu.",
     "authors": [
         {
             "name": "soapkid",
@@ -8,75 +8,124 @@
         }
     ],
     "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#232a2e"
+        "TEXT_CODE": [
+            "#E2EAD5"
         ],
-        "BACKGROUND_MOD_MUTED": [
-            "#374247"
+        "CONTROL_CONNECTED_BORDER_DEFAULT": [
+            "#A7C080"
         ],
-		"PANEL_BG": [
-			"#2d3538"
-		],
-        "BACKGROUND_SURFACE_RAISED": [
-            "#374247"
+        "ICON_STATUS_ONLINE": [
+            "#A7C080"
         ],
-		"BACKGROUND_BRAND": [
-			"#4d545c"
-		],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+        "POLLS_VICTOR_FILL": [
+            "#A7C080"
+        ],
+        "STATUS_ONLINE": [
+            "#A7C080"
+        ],
+        "STATUS_POSITIVE": [
+            "#A7C080"
+        ],
+        "STATUS_SPEAKING": [
+            "#A7C080"
+        ],
+        "TEXT_STATUS_ONLINE": [
+            "#A7C080"
+        ],
+        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+            "#A7C08012"
+        ],
+        "BACKGROUND_CODE": [
+            "#A7C08028"
+        ],
+        "CHAT_INPUT_ICON_DEFAULT_TINT": [
+            "#A7C080"
+        ],
+        "CHAT_INPUT_ACTION_BUTTON_ICON_DEFAULT_TINT": [
+            "#A7C080"
+        ],
+        "TABLEROW_ICON_COLOR_DEFAULT": [
+            "#A7C080"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#A7C080"
+        ],
+        "MOBILE_HEADER_ICON_DEFAULT": [
+            "#A7C080"
+        ],
+        "INPUT_BACKGROUND_DEFAULT": [
             "#232A2E"
         ],
-		"INPUT_BACKGROUND_DEFAULT": [
-			"#232A2E"
-		],
-        "INTERACTIVE_TEXT_DEFAULT": [
-            "#a7c080"
+        "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+            "#232A2E"
         ],
-		"EMBED_BACKGROUND": [
-			"#374247"
-		],
-		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-			"#232A2E"
-		]
+        "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
+            "#343F44"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+            "#232A2E"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+            "#232A2E"
+        ]
     },
     "rawColors": {
-        "PRIMARY_500": "#a7c080",
-        "PRIMARY_100": "#f4f4f4",
-        "PRIMARY_200": "#d0cfef",
-        "PRIMARY_300": "#a7c080",
-        "PRIMARY_360": "#7e8ecc",
-        "PRIMARY_400": "#a7c080",
-        "PRIMARY_600": "#4c555a",
-        "PRIMARY_630": "#4c555a",
-        "PRIMARY_660": "#4c555a",
-        "PRIMARY_700": "#4c555a",
-        "PRIMARY_800": "#4c555a",
-        "BLACK_500": "#000000fa",
-        "BRAND_260": "#a7c080",
-        "BRAND_360": "#a7c080",
-		"BRAND_500": "#a7c080",
-        "BRAND_560": "#68785B",
-        "YELLOW_300": "#dbbc7f",
-        "GREEN_600": "#83c092",
-        "RED_400": "#e67e80",
-        "WHITE_500": "#a7aaab",
-        "GREEN_360": "#83c092",
-		"BLUE_345": "#a7c080",
-		"PLUM_24": "#232a2e",
-        "PLUM_23": "#232a2e",
-		"PLUM_22": "#2d3538",
-        "PLUM_20": "#2d3538",
-		"PLUM_19": "#232a2e",
-        "PLUM_18": "#374247",
-        "PLUM_17": "#374247",
-        "PLUM_16": "#47555a",
-        "PLUM_15": "#374247",
-        "PLUM_13": "#a7c080",
-        "PLUM_10": "#d1c4aa",
-        "PLUM_3": "#e2ead5",
-        "PLUM_9": "#e2ead5",
-		"PLUM_6": "#e2ead5",
-		"PLUM_1": "#e2ead5"
+        "BRAND_230": "#A7C080",
+        "BRAND_260": "#A7C08028",
+        "BRAND_360": "#A7C080",
+        "BRAND_500": "#A7C080",
+        "BRAND_560": "#A7C080",
+
+        "BLURPLE_50": "#A7C080",
+
+        "NEUTRAL_43": "#475258",
+        "NEUTRAL_79": "#3D484D",
+
+        "PRIMARY_300": "#A7C080",
+        "PRIMARY_660": "#343F44",
+        "PRIMARY_800": "#A7C080",
+
+        "RED_400": "#E67E80",
+        "RED_430": "#E67E80",
+        "RED_460": "#514045",
+
+        "YELLOW_260": "#A7C080",
+        "YELLOW_300": "#DBBC7F",
+
+        "GREEN_360": "#E2EAD5",
+        "GREEN_430": "#A7C080",
+        "GREEN_460": "#425047",
+
+        "BLUE_NEW_37": "#7FBBB3",
+        
+        "OPACITY_8": "#8DADB7",
+        
+        "PLUM_1": "#E2EAD5",
+        "PLUM_3": "#E2EAD5",
+        "PLUM_4": "#E2EAD5",
+        "PLUM_6": "#E2EAD5",
+        "PLUM_9": "#E2EAD5",
+        "PLUM_10": "#D3C6AA",
+        "PLUM_11": "#56635F",
+        "PLUM_13": "#475258",
+        "PLUM_15": "#3D484D",
+        "PLUM_16": "#3D484D",
+        "PLUM_17": "#3D484D",
+        "PLUM_18": "#343F44",
+        "PLUM_19": "#343F44",
+        "PLUM_20": "#2D353B",
+        "PLUM_21": "#3D484D",
+        "PLUM_22": "#232A2E",
+        "PLUM_23": "#232A2E",
+        "PLUM_24": "#343F44",
+        
+        "PLUM_2": "#ffff00",
+        
+        "PLUM_5": "#00ffff",
+        "PLUM_7": "#ff00ff",
+        "PLUM_8": "#ff6600",
+        "PLUM_12": "#66ff66",
+        "PLUM_14": "#ff0000"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/rainForest/refs/heads/test/everforest%20blur.png",
@@ -84,30 +133,10 @@
         "size": "cover",
         "position": "center"
     },
-	"fonts": {
-		"ABCGintoNord-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/sraben-grotesk.bold.ttf?raw=1",
-		"ggsans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
-		"ggsans-BoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
-		"ggsans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
-		"ggsans-ExtraBoldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-BoldItalic.ttf?raw=1",
-		"ggsans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
-		"ggsans-MediumItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-MediumItalic.ttf?raw=1",
-		"ggsans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
-		"ggsans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
-		"ggsans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
-		"ggsans-SemiboldItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBoldItalic.ttf?raw=1",
-		"NotoSans-Bold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
-		"NotoSans-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Bold.ttf?raw=1",
-		"NotoSans-Medium": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Medium.ttf?raw=1",
-		"NotoSans-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Regular.ttf?raw=1",
-		"NotoSans-NormalItalic": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-Italic.ttf?raw=1",
-		"NotoSans-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/VendSans-SemiBold.ttf?raw=1",
-		"SourceCodePro-Semibold": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1",
-	  	"ggmono-Normal": "https://github.com/soap-kid/rainForest/blob/test/fonts/SpaceMono-Regular.ttf?raw=1"
-	},
 	"plus": {
-    "version": "0",
-    "iconpack": "solar"
+        "version": "0",
+        "iconpack": "solar",
+        "mentionLineColor": "#A7C080"
 },
     "spec": 2
 }

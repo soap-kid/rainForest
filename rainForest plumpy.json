@@ -1,0 +1,142 @@
+{
+    "name": "rainForest Dark",
+    "description": "Everforest for Rain/Kettu.",
+    "authors": [
+        {
+            "name": "soapkid",
+            "id": "255857537067253760"
+        }
+    ],
+    "semanticColors": {
+        "TEXT_CODE": [
+            "#E2EAD5"
+        ],
+        "CONTROL_CONNECTED_BORDER_DEFAULT": [
+            "#A7C080"
+        ],
+        "ICON_STATUS_ONLINE": [
+            "#A7C080"
+        ],
+        "POLLS_VICTOR_FILL": [
+            "#A7C080"
+        ],
+        "STATUS_ONLINE": [
+            "#A7C080"
+        ],
+        "STATUS_POSITIVE": [
+            "#A7C080"
+        ],
+        "STATUS_SPEAKING": [
+            "#A7C080"
+        ],
+        "TEXT_STATUS_ONLINE": [
+            "#A7C080"
+        ],
+        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+            "#A7C08012"
+        ],
+        "BACKGROUND_CODE": [
+            "#A7C08028"
+        ],
+        "CHAT_INPUT_ICON_DEFAULT_TINT": [
+            "#A7C080"
+        ],
+        "CHAT_INPUT_ACTION_BUTTON_ICON_DEFAULT_TINT": [
+            "#A7C080"
+        ],
+        "TABLEROW_ICON_COLOR_DEFAULT": [
+            "#A7C080"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#A7C080"
+        ],
+        "MOBILE_HEADER_ICON_DEFAULT": [
+            "#A7C080"
+        ],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#232A2E"
+        ],
+        "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+            "#232A2E"
+        ],
+        "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
+            "#343F44"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+            "#232A2E"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+            "#232A2E"
+        ]
+    },
+    "rawColors": {
+        "BRAND_230": "#A7C080",
+        "BRAND_260": "#A7C08028",
+        "BRAND_360": "#A7C080",
+        "BRAND_500": "#A7C080",
+        "BRAND_560": "#A7C080",
+
+        "BLURPLE_50": "#A7C080",
+
+        "NEUTRAL_43": "#475258",
+        "NEUTRAL_79": "#3D484D",
+
+        "PRIMARY_300": "#A7C080",
+        "PRIMARY_660": "#343F44",
+        "PRIMARY_800": "#A7C080",
+
+        "RED_400": "#E67E80",
+        "RED_430": "#E67E80",
+        "RED_460": "#514045",
+
+        "YELLOW_260": "#A7C080",
+        "YELLOW_300": "#DBBC7F",
+
+        "GREEN_360": "#E2EAD5",
+        "GREEN_430": "#A7C080",
+        "GREEN_460": "#425047",
+
+        "BLUE_NEW_37": "#7FBBB3",
+        
+        "OPACITY_8": "#8DADB7",
+        
+        "PLUM_1": "#E2EAD5",
+        "PLUM_3": "#E2EAD5",
+        "PLUM_4": "#E2EAD5",
+        "PLUM_6": "#E2EAD5",
+        "PLUM_9": "#E2EAD5",
+        "PLUM_10": "#D3C6AA",
+        "PLUM_11": "#56635F",
+        "PLUM_13": "#475258",
+        "PLUM_15": "#3D484D",
+        "PLUM_16": "#3D484D",
+        "PLUM_17": "#3D484D",
+        "PLUM_18": "#343F44",
+        "PLUM_19": "#343F44",
+        "PLUM_20": "#2D353B",
+        "PLUM_21": "#3D484D",
+        "PLUM_22": "#232A2E",
+        "PLUM_23": "#232A2E",
+        "PLUM_24": "#343F44",
+        
+        "PLUM_2": "#ffff00",
+        
+        "PLUM_5": "#00ffff",
+        "PLUM_7": "#ff00ff",
+        "PLUM_8": "#ff6600",
+        "PLUM_12": "#66ff66",
+        "PLUM_14": "#ff0000"
+    },
+    "background": {
+        "url": "https://raw.githubusercontent.com/soap-kid/rainForest/refs/heads/test/everforest%20blur.png",
+        "alpha": 1,
+        "size": "cover",
+        "position": "center"
+    },
+	"plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy",
+        "mentionLineColor": "#A7C080"
+},
+    "spec": 2
+}
