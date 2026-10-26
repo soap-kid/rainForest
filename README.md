@@ -19,6 +19,5 @@ Everforest Dark Medium with Roseicord Plumpy icon pack.
 ### [rainForest Fonts](https://raw.githubusercontent.com/soap-kid/NeuForest/refs/heads/main/rainForestFonts.json)
 > [!IMPORTANT]
 > Vend Sans unfortunately seems to mess with Discord's default text scaling a bit. If you'd like to use this font pack (and of course you do!), I recommend lowering your zoom level in your app's appearance settings (75% looks best to me.)
-
-## Preview
-![server list and channels](previews/preview.png)
+---
+![Preview](previews/rainforest%20render%2026%2010%2026.png)
