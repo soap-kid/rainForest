@@ -108,6 +108,7 @@
         "PLUM_10": "#D3C6AA",
         "PLUM_11": "#56635F",
         "PLUM_13": "#475258",
+		"PLUM_14": "#475258",
         "PLUM_15": "#3D484D",
         "PLUM_16": "#3D484D",
         "PLUM_17": "#3D484D",
@@ -124,8 +125,7 @@
         "PLUM_5": "#00ffff",
         "PLUM_7": "#ff00ff",
         "PLUM_8": "#ff6600",
-        "PLUM_12": "#66ff66",
-        "PLUM_14": "#ff0000"
+        "PLUM_12": "#66ff66"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/rainForest/refs/heads/main/everforest%20blur.png",
